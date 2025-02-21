@@ -1,7 +1,7 @@
 # About-
 
 <h1 align="center">Hi 👋, I'm Syed Sartaj Ali</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Enthusiastic and detail- oriented Full Stack Java Developer with hands-on experience in Java, Spring Boot, IoT, and web development. Passionate about building scalable applications and optimizing system efficiency.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b9523qoqkhaygqag88lqfitembmz1qy4gnttj32ymkp9&ep=v1_gifs_search&rid=200w.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsartajali&label=Profile%20views&color=0e75b6&style=flat" alt="syedsartajali" /> </p>
 
